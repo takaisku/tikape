@@ -1,6 +1,8 @@
 
 # 2016 Tietokantojenperusteet- kurssin ryhmätyö
 
+https://github.com/munkkipossu/tikape
+
 ##Ryhmän jäsenet
 
 - Toivo Kärkinen
@@ -16,3 +18,5 @@
 - [ ] Rajapinta tietokantaan -- Toivo
 - [ ] Java luokat, main -- Teemu
 - [ ] Dokumentaatio
+
+##Heroku
