@@ -1,6 +1,7 @@
-# tikape
 
-2016 Tietokantojenperusteet- kurssin ryhmätyö
+# 2016 Tietokantojenperusteet- kurssin ryhmätyö
+
+##Ryhmän jäsenet
 
 - Toivo Kärkinen
 - Jani Issakainen
@@ -8,9 +9,10 @@
 - Teemu Laakso
 
 
-- [] Websivut -- Walter
-- [] Tietokanta -- Jani
-- [] Rajapinta tietokantaan -- Toivo
-- [] Java luokat, main -- Teemu
-- [] Dokumentaatio
-Dokumentaatio	Osuuksin
+##Tehvätälista:
+
+- [ ] Websivut -- Walter
+- [ ] Tietokanta -- Jani
+- [ ] Rajapinta tietokantaan -- Toivo
+- [ ] Java luokat, main -- Teemu
+- [ ] Dokumentaatio
